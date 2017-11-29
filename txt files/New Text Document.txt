@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+echo 6=75% >/dev/servoblaster
+

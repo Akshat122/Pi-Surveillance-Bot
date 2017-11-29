@@ -1,0 +1,16 @@
+
+#!/bin/bash
+
+gpio -g write 10 1
+
+gpio -g write 9 0
+
+gpio -g write 11 1
+
+gpio -g write 0 0
+
+
+
+
+
+

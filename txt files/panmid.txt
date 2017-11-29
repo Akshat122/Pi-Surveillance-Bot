@@ -1,0 +1,5 @@
+
+#!/bin/bash
+
+echo 1=35% >/dev/servoblaster
+
